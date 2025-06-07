@@ -1,0 +1,228 @@
+#EXTM3U
+
+
+===========KIDS=========
+
+
+#EXTINF:-1 tvg-country="JP" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="Anime", Animax (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="JP" tvg-logo="https://i.imgur.com/huXFL3A.png" group-title="Japan", BS Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="JP" tvg-logo="" group-title="Japan",TV Tokyo (720p)
+https://vnpt.nekocdn.xyz/memfs/202bea4f-c55a-4dbc-a5f3-66343cc98b0b.m3u8?checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="JP" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Japan",Fuji TV (720p)
+https://vnpt.nekocdn.xyz/memfs/5417ea42-1305-40d2-b318-bcc9552fe3fb.m3u8?checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="JP" tvg-logo="https://i.imgur.com/WxtftlO.png" group-title="Japan",NHK E (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="japan",Cartoon Network Japan (400p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-id="Nickelodeon.de",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/07212020/circle_190x190.png?raw=true" group-title="animasi",Moonbug Kids not geo via roku
+https://moonbug-rokuus.amagi.tv/playlist.m3u8?checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="US" tvg-logo="https://i.imgur.com/tMfEsVr.png" group-title="animasi",LEGO Kids TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536&checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="JP" tvg-logo="https://i.imgur.com/VSq7b5E.jpg" group-title="animasi",Disney Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&checkedby=iptvcat.com
+
+#EXTINF:-1tvg-country="PL" tvg-logo="" group-title="animasi",Disney Channel
+http://109.233.89.170/Disney_Channel/mono.m3u8?checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="animasi",Disney Channel (720p)
+https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8?checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East
+https://fl5.moveonjoy.com/DISNEY/index.m3u8
+
+EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior East
+https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="animasi",Anime All Day
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356&serverSideAds=false&checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="GB" tvg-logo="" group-title="animasi",Pluto TV Animals (England) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=&checkedby=iptvcat.com
+
+
+==========SPORT======≈=====
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us",BeIN Sports XTRA
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us",BeIN Sports XTRA en Espanol
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Big 12 Studios
+https://amg01258-raycom-amg01258c7-xumo-us-5514.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportsGrid.us",SportsGrid
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPNews.us",ESPNews (720p)
+https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us",CBS Sports Network USA
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="MNBSport.mn",MNB Sport (1080p)
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+
+#EXTINF:-1 tvg-id="TDMSports.mo",TDM Sports Ch. 93 (720p)
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru",Астрахань.Ru Sport (720p)
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLDRDTV.kr",SBS CJB (540p) [Not 24/7]
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us",NBA TV
+https://fl3.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="MLBNetwork.us",MLB Network
+https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+EXTINF:-1 tvg-id="TraceSportStars.fr",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+
+EXTINF:-1 tvg-id="TVRISport.id",TVRI Sport (720p)
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="QazSport.kz",QazSport (480p) [Geo-blocked]
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GolfChannel.cz",Golf Channel (576i)
+http://78.130.250.2:8023/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-id="bein.sports1" tvg-name="beIN Sports 1" group-title="Olahraga",beIN Sports 1
+https://sportsstreams-lh.akamaihd.net/i/sports_1@123456/index_1500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="bein.sports2" tvg-name="beIN Sports 2" group-title="Olahraga",beIN Sports 2
+https://sportsstreams-lh.akamaihd.net/i/sports_2@123457/index_1500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="eurosport" tvg-name="Eurosport" group-title="Olahraga",Eurosport
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
+
+#EXTINF:-1 tvg-id="ChampionTV.co",Champion TV (1080p)
+https://canal.mediaserver.com.co/live/ChampionTv.m3u8
+
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague.pl@SD",Strongman Champions League
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel.us",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPNews.us",ESPNews (720p)
+https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="BlueSkyTV.gr",Blue Sky TV (720p)
+https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+
+EXTINF:-1 tvg-id="ESPNU.us",ESPN U (720p)
+https://fl3.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNews.us",ESPNews (720p)
+https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-country="DE" tvg-logo="" group-title="Sport",Auto Motor Sport
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac2f82-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd6f9149-f825-44a8-988e-28acbcdc798e&serverSideAds=false&checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="besbol",MLB
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a&serverSideAds=false&checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="SPORT",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8?checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="NO" tvg-logo="https://i.imgur.com/BHm0wem.png" group-title="Sports",Canal Motor (720p)
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8?checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Sport",A21 Network : Russian Motorsport Television
+https://autopilot.catcast.tv/content/37909/index.m3u8?checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="FR" tvg-logo="" group-title="SPORT",TF1 (720p) [Geo-blocked]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8?checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Sport",GolfPass
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65493029ab052400089e9d2f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291881-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc355a72-e401-4038-a2fd-7378aedc3a6f&serverSideAds=false&checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Sport",Eurosport 1 HD
+http://myott.top/stream/DT6QU63K5VX/176.m3u8?checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Sport",Eurosport 2 HD
+http://myott.top/stream/DT6QU63K5VX/192.m3u8?checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Sport",FOX Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54&checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="" group-title="SPORT",SPOTV (Indonesia)
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8?checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="" group-title="SPORT",SPOTV 2 (Indonesia)
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8?checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="SPORT",RCTI (720p)
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8?checkedby=iptvcat.com
+
+
+========KOREAN/DRAKOR============
+
+#EXTINF:-1 tvg-id="SBS.kr",SBS (480p)
+http://www.hwado.net/webtv/catv/502_76142D8F.php
+
+#EXTINF:-1 tvg-id="ArirangTV.kr",Arirang TV (1080p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+EXTINF:-1 tvg-id="BBSTV.kr",BBS Buddhist Broadcasting (1080p)
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BTNTV.kr",BTN TV (1080p)
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGNTVSouthKorea.kr",CGNTV South Korea (1080p)
+https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
+
+EXTINF:-1 tvg-id="GugakTV.kr",GugakTV 국악방송 (1080p)
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+
+EXTINF:-1 tvg-id="",JCN TV (1080p)
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+
+EXTINF:-1 tvg-id="KBS1TV.kr",KBS 1 UHD (720p)
+http://202.60.106.14:21585/200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLDRDTV.kr",SBS CJB (540p) [Not 24/7]
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLCQDTV.kr",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KBS2" group-title="Korea - Publik",KBS2
+http://121.156.46.79/live/KBS2/playlist.m3u8
+
+#EXTINF:-1 tvg-country="KR" tvg-logo="" group-title="korean",SBS G1 (360p) [Not 24/7]
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8?checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-country="KR" tvg-logo="" group-title="korean",MBC Net (480p) [Geo-blocked]
+http://mytv.dothome.co.kr/ch/catv/28.php?checkedby=iptvcat.com
+
+EXTINF:-1 tvg-id="tvN.kr",tvN Asia (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+
+#EXTINF:-1 tvg-country="KR" tvg-logo="" group-title="Korean",OCN (576p)
+http://202.60.106.14:8080/207/playlist.m3u8?checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-id="tvN.kr",tvN Asia (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+
+#EXTINF:-1 tvg-id="tvNMoviesAsia.hk",tvN Movies (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+
