@@ -1,0 +1,284 @@
+#EXTM3U
+
+=====Anime=====
+
+#EXTINF:-1 tvg-id="animax.jp" group-title="Anime",Animax
+http://vthanh.utako.moe/Animax/index.m3u8
+
+#EXTINF:-1 tvg-id="tvasahi.jp" group-title="Anime",TV Asahi
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
+
+#EXTINF:-1 tvg-id="tvtokyo.jp" group-title="Anime",TV Tokyo
+http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
+
+#EXTINF:-1 tvg-id="fujitv.jp" group-title="Anime",Fuji TV
+https://list.iptvcat.com/my_list/s/ea0f0ab0b813747dcba977ce8534ec13.m3u8
+
+#EXTINF:-1 tvg-id="nhk_e.jp" group-title="Anime",NHK E (Tokyo)
+http://vthanh.utako.moe/NHK_E/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetwork.jp" group-title="Anime",Cartoon Network Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+
+#EXTINF:-1 tvg-id="nickelodeon.us" group-title="Anime",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+
+#EXTINF:-1 tvg-id="moonbug.us" group-title="Anime",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lego.us" group-title="Anime",LEGO Kids TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8
+
+#EXTINF:-1 tvg-id="disneych.jp" group-title="Anime",Disney Channel Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+
+#EXTINF:-1 tvg-id="disneych.pl" group-title="Anime",Disney Channel (Poland)
+http://109.233.89.170/Disney_Channel/mono.m3u8?checkedby=iptvcat.com
+
+#EXTINF:-1 tvg-id="disneych.us" group-title="Anime",Disney Channel (US)
+https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="disneych.east" group-title="Anime",Disney Channel East
+https://fl5.moveonjoy.com/DISNEY/index.m3u8
+
+#EXTINF:-1 tvg-id="disneyjr.east" group-title="Anime",Disney Junior East
+https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="animeallday.us" group-title="Anime",Anime All Day
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
+
+#EXTINF:-1 tvg-id="pluto.animals.gb" group-title="Anime",Pluto TV Animals (UK)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8
+
+#EXTINF:-1 tvg-id="BabySharkTV.us@SD" grup-title="Anime",Baby Shark TV (720p)
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+EXTINF:-1 tvg-id="" grup-title="Anime",Yu-Gi-Oh! (1080p)
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+
+
+=====sport======
+
+
+#EXTINF:-1 tvg-id="beinxtra.us" group-title="Sport",BeIN Sports XTRA
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beinxtra.es" group-title="Sport",BeIN Sports XTRA en Español
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="big12studios.us" group-title="Sport",Big 12 Studios
+https://amg01258-raycom-amg01258c7-xumo-us-5514.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sportsgrid.us" group-title="Sport",SportsGrid
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="espnews.us" group-title="Sport",ESPNews
+https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="cbsports.us" group-title="Sport",CBS Sports Network
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="mnbsport.mn" group-title="Sport",MNB Sport
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+
+#EXTINF:-1 tvg-id="tdm.ch93.mo" group-title="Sport",TDM Sports Ch. 93
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="astrakhan.ru" group-title="Sport",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="nbatv.us" group-title="Sport",NBA TV
+https://fl3.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="mlbnetwork.us" group-title="Sport",MLB Network
+https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="trace.sportstars" group-title="Sport",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvri.sport.id" group-title="Sport",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="qazsport.kz" group-title="Sport",QazSport
+https://qazsporttv-stream.qazcdn.com/qazsporttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="golfchannel.us" group-title="Sport",Golf Channel
+http://78.130.250.2:8023/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-id="beinsports1.us" group-title="Sport",beIN Sports 1
+https://sportsstreams-lh.akamaihd.net/i/sports_1@123456/index_1500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="beinsports2.us" group-title="Sport",beIN Sports 2
+https://sportsstreams-lh.akamaihd.net/i/sports_2@123457/index_1500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="eurosport.us" group-title="Sport",Eurosport
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
+
+#EXTINF:-1 tvg-id="championtv.co" group-title="Sport",Champion TV
+https://canal.mediaserver.com.co/live/ChampionTv.m3u8
+
+#EXTINF:-1 tvg-id="strongman.scl" group-title="Sport",Strongman Champions League
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tennischannel.us" group-title="Sport",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="blueskytv.us" group-title="Sport",Blue Sky TV
+https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="espnu.us" group-title="Sport",ESPN U
+https://fl3.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:-1 tvg-id="autosport.de" group-title="Sport",Auto Motor Sport
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8
+
+#EXTINF:-1 tvg-id="mlb.us" group-title="Sport",MLB
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8
+
+#EXTINF:-1 tvg-id="canalmotor.no" group-title="Sport",Canal Motor
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
+#EXTINF:-1 tvg-id="a21network.ru" group-title="Sport",A21 Network (Russian Motorsport)
+https://autopilot.catcast.tv/content/37909/index.m3u8
+
+#EXTINF:-1 tvg-id="tf1.fr" group-title="Sport",TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+
+#EXTINF:-1 tvg-id="golfpass.us" group-title="Sport",GolfPass
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65493029ab052400089e9d2f/master.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1.us" group-title="Sport",Eurosport 1
+http://myott.top/stream/DT6QU63K5VX/176.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2.us" group-title="Sport",Eurosport 2
+http://myott.top/stream/DT6QU63K5VX/192.m3u8
+
+#EXTINF:-1 tvg-id="foxsports.us" group-title="Sport",FOX Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8
+
+#EXTINF:-1 tvg-id="spotv.id" group-title="Sport",SPOTV Indonesia
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
+#EXTINF:-1 tvg-id="spotv2.id" group-title="Sport",SPOTV 2 Indonesia
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+
+#EXTINF:-1 tvg-id="rcti.id" group-title="Sport",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+
+
+====Drakor======
+
+
+#EXTINF:-1 tvg-id="sbscjb.kr" group-title="Drakor",SBS CJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sbs.kr" group-title="Drakor",SBS
+http://www.hwado.net/webtv/catv/502_76142D8F.php
+
+#EXTINF:-1 tvg-id="arirang.kr" group-title="Drakor",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bbstv.kr" group-title="Drakor",BBS Buddhist Broadcasting
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="btn.kr" group-title="Drakor",BTN TV
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cgntv.kr" group-title="Drakor",CGNTV South Korea
+https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
+
+#EXTINF:-1 tvg-id="gugak.kr" group-title="Drakor",GugakTV
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="jcn.kr" group-title="Drakor",JCN TV
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+
+#EXTINF:-1 tvg-id="kbs1.kr" group-title="Drakor",KBS 1
+http://202.60.106.14:21585/200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sbs_cjb.kr" group-title="Drakor",SBS CJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mbcdaejeon.kr" group-title="Drakor",MBC Daejeon
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kbs2.kr" group-title="Drakor",KBS2
+http://121.156.46.79/live/KBS2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sbs_g1.kr" group-title="Drakor",SBS G1
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mbcnet.kr" group-title="Drakor",MBC Net
+http://mytv.dothome.co.kr/ch/catv/28.php
+
+#EXTINF:-1 tvg-id="tvnasia.id" group-title="Drakor",tvN Asia
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+
+#EXTINF:-1 tvg-id="ocn.kr" group-title="Drakor",OCN
+http://202.60.106.14:8080/207/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvnasia2.id" group-title="Drakor",tvN Asia (Sub Indo)
+https://op-group1-swiftservehd-1.dens.tv/h/h20/02.m3u8
+
+#EXTINF:-1 tvg-id="tvnmovies.id" group-title="Drakor",tvN Movies (Sub Indo)
+https://op-group1-swiftservehd-1.dens.tv/h/h21/02.m3u8
+
+
+====TV Lokal======
+
+
+#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Indosiar_2021.svg" group-title="TV Lokal", INDOSIAR
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-indosiar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nettv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6f/Net_Media_Televisi.svg" group-title="TV Lokal", NET TV
+http://210.210.155.37/qwr9ew/s/s05/index.m3u8
+
+#EXTINF:-1 tvg-id="trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e1/Trans7_logo.svg" group-title="TV Lokal", TRANS 7
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-trans7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="transtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d1/Trans_TV.svg" group-title="TV Lokal", TRANS TV
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-transtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mnctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f6/MNCTV_logo_2020.svg" group-title="TV Lokal", MNCTV
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+
+#EXTINF:-1 tvg-id="rtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6f/RTV_Logo_2014.svg" group-title="TV Lokal", RTV
+http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+
+#EXTINF:-1 tvg-id="kompastv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/92/Kompas_TV_logo_2017.svg" group-title="TV Lokal", KOMPAS TV
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+#EXTINF:-1 tvg-id="metrotv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/Metro_TV_2023.svg" group-title="TV Lokal", METRO TV
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-metrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3f/SCTV_logo_2020.svg" group-title="TV Lokal", SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1 tvg-id="inews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d1/INews_logo.svg" group-title="TV Lokal", INEWS
+https://allcutv.rctiplus.id/inews2023.m3u8
+
+#EXTINF:-1 tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e6/Mentari_TV_logo.svg" group-title="TV Lokal", MENTARI TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#EXTINF:-1 tvg-id="vtv.id" tvg-logo="https://i.imgur.com/KzYqejM.png" group-title="TV Lokal", VTV
+https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 tvg-id="horeetv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f9/Horee_TV_logo.svg" group-title="TV Anak", HOREE TV
+https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
